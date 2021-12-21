@@ -15,7 +15,3 @@ I'm a recent Makers Academy graduate, currently looking for my first role as a f
 <img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="Jasmine" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" />
-<img align="left" alt="Jest" width="30px" src="https://nx.dev/documentation/latest/shared/jest-logo.png" />
-<img align="left" alt="Node" width="30px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
-<img align="left" alt="Express" width="30px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
