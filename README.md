@@ -3,8 +3,6 @@
 I'm a recent Makers Academy graduate, currently looking for my first role as a full-stack software developer.
 
 - :pencil2: I’m currently working on [Travel Wish List](https://github.com/noarfarber/travel-wishlist)
-- 🔭 I'm also focusing on sharpening my JavaScript
-- 🌱 My next goal is learning React and TypeScript
 
 ### Languages and Tools
 <img align="left" alt="Ruby" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
