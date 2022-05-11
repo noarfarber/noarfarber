@@ -4,6 +4,8 @@ I'm a Makers Academy graduate, currently looking for my first role as a software
 
 - 🔭 I’m currently focussing on learning React
 - 🌱 I’m currently working on [React Hiking App](https://github.com/noarfarber/React-Hiking-App)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/noa-farber-69b90912a/)
+- 📝 Find my CV [here](https://github.com/noarfarber/CV)
 
 ### Languages and Tools
 
